@@ -1,4 +1,4 @@
-# ASCII Converter Pro 🎨
+# ASCII Converter 🎨
 
 A powerful, high-performance tool to convert images into ASCII art. Designed with a **Cyberpunk-styled GUI** for ease of use and a **Command Line Interface (CLI)** for batch processing.
 
